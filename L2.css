@@ -1,0 +1,19 @@
+div{
+    background-color: rgb(67, 67, 233);
+    margin: 10px;
+    width: 10%;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+#div1{
+    background-color: rgb(81, 219, 118);
+}
+
+body{
+    background-color: bisque;
+}
+
+ol{
+    list-style-type: none;
+}
