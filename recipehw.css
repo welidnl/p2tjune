@@ -1,0 +1,28 @@
+header{
+    background-color: antiquewhite;
+    padding: 3px;
+    margin: 10px;
+}
+
+main{
+    background-color: antiquewhite;
+    padding: 3px;
+    margin: 10px;
+}
+
+ol{
+    list-style-type: none;
+    background-color: white;
+    border: black;
+    padding: 3px;
+    margin: 10px;
+}
+
+ul{
+    background-color: white;
+    border: black;
+    padding: 3px;
+    margin: 10px;
+}
+
+
