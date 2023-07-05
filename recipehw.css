@@ -30,3 +30,15 @@ footer{
     padding: 3px;
     margin: 10px;
 }
+
+h3{
+    color: rgb(75, 75, 189);
+}
+
+#second-h3{
+    color: aquamarine;
+}
+
+#third-h3{
+    color: rgb(211, 81, 146);
+}
