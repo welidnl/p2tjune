@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+    border: 3px dashed black;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+ol{
+    width: 50%;
+    margin: auto;
+    padding: 0%;
+}
+
+main{
+    width: 50%;
+    margin: auto;
+}
+
+div{
+    padding: 0%;
+}
+
+li{
+    list-style-type: none;
+}
