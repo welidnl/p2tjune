@@ -1,13 +1,24 @@
+body{
+    width: 800px;
+    padding: 10PX;
+}
+
 header{
     background-color: antiquewhite;
     padding: 3px;
     margin: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+    text-align: center;
 }
 
 main{
     background-color: antiquewhite;
     padding: 3px;
     margin: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+
 }
 
 ol{
@@ -15,30 +26,67 @@ ol{
     background-color: white;
     border: black;
     padding: 3px;
-    margin: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    
 }
 
 ul{
+    list-style-type: none;
     background-color: white;
     border: black;
     padding: 3px;
     margin: 10px;
+    border-radius: 10px;
 }
 
 footer{
     background-color: antiquewhite;
     padding: 3px;
     margin: 10px;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+img{
+    padding: 1%;
+}
+
+#nav-bar{
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+}
+
+header ol li{
+    display: block;
+    padding: 10px 15px;
+}
+
+h1{
+    margin-left: 10px;
 }
 
 h3{
-    color: rgb(75, 75, 189);
+    margin-left: 10px;
 }
 
-#second-h3{
-    color: aquamarine;
+h4{
+    margin-left: 10px;}
+
+p{
+    margin-left: 10px;
 }
 
-#third-h3{
-    color: rgb(211, 81, 146);
+li{
+    margin-left: 10px;
 }
+
+ol li a{
+    color: black;
+}
+
+header ol li a:hover{
+    font-size:larger;
+}
+

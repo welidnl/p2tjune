@@ -3,17 +3,17 @@ body{
     border: 3px dashed black;
     width: 50%;
     margin: auto;
-    text-align: center;
 }
 
 ol{
-    width: 50%;
+
     margin: auto;
     padding: 0%;
+    display: flex;
 }
 
 main{
-    width: 50%;
+
     margin: auto;
 }
 
@@ -23,4 +23,16 @@ div{
 
 li{
     list-style-type: none;
+    display: block;
+    padding: 10px 15px;
+}
+
+#div1 {
+    text-align: center;
+    background-color: rgb(103, 103, 207);
+}
+
+img{
+    width: 50%;
+    float: left;
 }
