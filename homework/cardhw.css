@@ -1,0 +1,39 @@
+.card-body{
+    width: 30%;
+    background-color: antiquewhite;
+    border: solid black;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.card-body img{
+    width:100%; 
+}
+
+.card-body img {
+    border-radius: 10px;
+}
+
+.card-body nav ol{
+    padding: 0%;
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+}
+
+.card-body nav ol li{
+    display: block;
+    padding: 10px 15px;
+}
+
+.card-body li a {
+    text-decoration: none;
+    color: black;
+}
+
+.card-body nav ol li:hover{
+    font-size: larger;
+}
+
+
