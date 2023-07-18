@@ -1,0 +1,53 @@
+body{
+    width: 80%;
+    margin: auto;
+}
+#bottom-line{
+    background-color: rgb(26, 25, 25);
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+main {
+    background-color: orange;
+    text-align: center;
+}
+footer {
+    background-color: black;
+    color: aliceblue;
+    padding: none;
+    border: solid black;
+}
+ol{
+    list-style-type: none;
+    padding: 10px 15px;
+    margin: 15px;
+    display: flex;
+    justify-content: end;
+}
+header div ol li {
+    padding: 10px 15px;
+    text-decoration: none;
+}
+a {
+     color: black;
+}
+#flex-container{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#flex-container div{
+    width: 25%;
+    margin: 20px;
+    padding: 10px;
+}
+span {
+    color: orange;
+}
+img {
+    width: 100%;
+    height: auto;
+}
